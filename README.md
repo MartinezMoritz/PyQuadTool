@@ -1,0 +1,2 @@
+# PyQuadTool
+This project presents the design and development of drone dynamics toolbox implemented in Python programming language, called PyQuadTool . This toolbox allows the 3D simulation of a drone that is lifted and propelled by four rotors (so-called quadrotor), and enables the user to define complex trajectories, dynamic models and closed-loop control for trajectory tracking. PyQuadTool is a simulation software which allows modelling, flight control and navigation of aerial robots.
